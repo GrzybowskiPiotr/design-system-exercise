@@ -17,17 +17,17 @@ We provide tokens in three formats: CSS, JS and TS. You can import them in your 
 To use the CSS Custom Properties from our package, add the following import to the main CSS file or to the `<head>` of your HTML page:
 
 ```css
-@import 'path_to_node_modules/@grzybowskipiotr/design-tokens/dist/css/tokens.css';
+@import "path_to_node_modules/@grzybowskipiotr/design-tokens/dist/css/tokens.css";
 ```
 
 Or in JavaScript, if you use a bundler that supports CSS imports:
 
 ```js
-import '@grzybowskipiotr/design-tokens/dist/css/tokens.css';
+import "@grzybowskipiotr/design-tokens/dist/css/tokens.css";
 ```
 
 ### JS/TS
 
 ```js
-import { ButtonTextColor } from '@przeprogramowani/design-tokens';
+import {ButtonTextColor} from "@grzybowskipiotr/design-tokens";
 ```
