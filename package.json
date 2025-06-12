@@ -1,11 +1,11 @@
 {
   "name": "@grzybowskipiotr/design-tokens",
-  "version": "0.1.3",
-  "description": "Design tokens collection for Przeprogramowani Design System",
+  "version": "0.1.4",
+  "description": "exercise for Opanuj frontend course - design tokens",
   "license": "MIT",
   "keywords": [
     "design tokens",
-    "przeprogramowani"
+    "grzybowskipiotr"
   ],
   "files": [
     "dist",
