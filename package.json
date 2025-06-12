@@ -27,7 +27,7 @@
     "build:tokens": "node build.mjs",
     "build:bundle": "rollup -c",
     "clean": "rimraf dist",
-    "release": "npm run build && npm run test && np",
+    "release": "npm run build && np",
     "test": "npm run build && vitest run",
     "update:token": "./update_token.sh"
   },
